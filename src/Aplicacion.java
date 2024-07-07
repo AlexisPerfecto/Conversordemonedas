@@ -23,9 +23,11 @@ import java.util.ArrayList;
 
         public void mostrarLista(){
             for (Conversion listaConversion : listaConversiones) {
-                System.out.println(" Codigo Base: " + listaConversion.getCodigoPaisOrigen() + " |\t Codigo Destino "
-                        + listaConversion.getCodigoPaisDestino() + "\t Cantidad " + listaConversion.getCantidadAConvertir()
-                        + " |\tValor final "+ listaConversion.getCantidadConvertida());
+                System.out.println("\n \t RESUMEN DE MOVIMIENTOS REALIZADOS A-One");
+                System.out.println(" Codigo Pais Origen: " + listaConversion.getCodigoPaisOrigen() + " |\t Codigo Pais Destino: "
+                        + listaConversion.getCodigoPaisDestino() + "\t Importe a Convertir: " + listaConversion.getCantidadAConvertir()
+                        + " |\t Importe final convertido: "+ listaConversion.getCantidadConvertida());
+                System.out.println("\n");
             }
         }
 

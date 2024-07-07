@@ -1,14 +1,20 @@
 [
   {
     "CodigoPaisOrigen": "USD",
-    "CodigoPaisDestino": "MXN",
-    "CantidadConvertida": 162846.9,
-    "CantidadAConvertir": 9000.0
+    "CodigoPaisDestino": "CAD",
+    "CantidadConvertida": 1362.5,
+    "CantidadAConvertir": 1000.0
   },
   {
-    "CodigoPaisOrigen": "CNY",
+    "CodigoPaisOrigen": "CAD",
     "CodigoPaisDestino": "MXN",
-    "CantidadConvertida": 14911.2,
-    "CantidadAConvertir": 6000.0
+    "CantidadConvertida": 13271.3,
+    "CantidadAConvertir": 1000.0
+  },
+  {
+    "CodigoPaisOrigen": "EUR",
+    "CodigoPaisDestino": "MXN",
+    "CantidadConvertida": 19610.6,
+    "CantidadAConvertir": 1000.0
   }
 ]
