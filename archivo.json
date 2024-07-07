@@ -1,0 +1,14 @@
+[
+  {
+    "CodigoPaisOrigen": "USD",
+    "CodigoPaisDestino": "MXN",
+    "CantidadConvertida": 162846.9,
+    "CantidadAConvertir": 9000.0
+  },
+  {
+    "CodigoPaisOrigen": "CNY",
+    "CodigoPaisDestino": "MXN",
+    "CantidadConvertida": 14911.2,
+    "CantidadAConvertir": 6000.0
+  }
+]
